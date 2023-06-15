@@ -1,0 +1,7 @@
+.custom-html-wrapper {
+    padding: 2rem;
+}
+.custom-html-wrapper p {
+    font-size: 150%;
+    font-style:italic;
+}
